@@ -26,7 +26,7 @@ Android-Charts/Cocoa-Charts技术交流QQ群现已开通，欢迎加入。群号
 - `stacked stick chart`
 
     
-###More About Cocoa-Charts
+### More About Cocoa-Charts
 
 If you need further information of Cocoa-Charts, you can visit the web site of Cocoa-Charts.
 
@@ -61,7 +61,7 @@ application on both iOS and Android platforms.
 
 ### Installation With CocoaPods
 
-####Use Podfile
+#### Use Podfile
 
 To integrate Cocoa-Charts into your Xcode project using CocoaPods, specify it in your Podfile:
 
@@ -75,10 +75,10 @@ Then, run the following command:
 
 
 ## History, Change Logs
-###v0.1, `2012-07-14`
+### v0.1, `2012-07-14`
 The first stable version released, we decide to make it an Open-source framework.
 
-###v0.0.1, `2011-05-30`
+### v0.0.1, `2011-05-30`
 While developing `Android-Charts`, we start its Objective-c version which can be used in iPhone/iPad Application.
 
 ## Contributing
